@@ -1,0 +1,41 @@
+/* AUTOFIXES */
+.myauto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* COLORS */
+
+.amber {
+    background-color: #ffbf00ff;
+}
+
+.violet {
+    background-color: #44355bff;
+}
+
+.blue {
+    background-color: #59c3c3ff;
+}
+
+.orange {
+    background-color: #f2542dff;
+}
+
+.brown {
+    background-color: #4c2e05ff;
+}
+
+/* BUTTONS */
+
+.navbutton {
+    color: white;
+    text-decoration: none;
+    transition: 0.25s;
+}
+
+.navbutton:hover {
+    color: #ffbf00ff;
+
+
+}
